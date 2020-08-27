@@ -1,3 +1,5 @@
+//Jose Andres Duarte Hidalgo B82639
+
 package cr.ac.ucr.calculadoratarea;
 
 import androidx.appcompat.app.AppCompatActivity;
